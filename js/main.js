@@ -1,1 +1,1 @@
-console.info('Geir sier hei!');
+console.log('Amanda sier hei!');
