@@ -7,7 +7,7 @@ const navn = "Daniel"
     {
         if (clicked == false | hasclicked == false)
         {
-            const maxcount = 5
+            const maxcount = 100
             const randomTimes = Math.floor(Math.random() * maxcount) + 1
             for (var i = 0; i < randomTimes; i++)
             {
