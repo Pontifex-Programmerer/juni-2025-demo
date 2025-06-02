@@ -1,1 +1,2 @@
+console.log('geir sier hei!');
 console.log('Yeva sier hei!');
