@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.Mikkel-div {
+    margin-top: 50px;
+}
+
+.Mikkel-div p {
+    font-size: 18px;
+}
+
+.Mikkel-div h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
