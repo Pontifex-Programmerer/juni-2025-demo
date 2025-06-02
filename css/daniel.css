@@ -1,4 +1,21 @@
 #count
 {
-    width: 5vw;
+    width: 80%;
+    text-align: center;
+    background-color: black;
+    color: greenyellow;
+    padding: 2%;
+}
+.center
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    flex-direction: column;
+}
+#button
+{
+    padding: 1%;
+    background-color: aquamarine;
 }
